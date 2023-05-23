@@ -85,4 +85,4 @@ Per creare un README.md ordinato:
 
 - codice può essere inserito delimitando con tre backtick `
 
-- le citazioni possono essere fatte aggiungendo ```>``` prima del testo
+- le citazioni possono essere fatte aggiungendo ```>``` prima del testo.
