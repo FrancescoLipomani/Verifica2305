@@ -93,3 +93,4 @@ Per creare un README.md ordinato:
 # PER GENERARE UN TOKEN
 ![comando5](comando5.png)
 ![comando6](comando6.png)
+![comando7](comando7.png)
