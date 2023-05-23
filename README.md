@@ -86,3 +86,10 @@ Per creare un README.md ordinato:
 - codice può essere inserito delimitando con tre backtick `
 
 - le citazioni possono essere fatte aggiungendo ```>``` prima del testo.
+
+
+
+
+# PER GENERARE UN TOKEN
+![comando5](comando5.png)
+![comando6](comando6.png)
