@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Clienti
+comment1.params=
+comment1.target=Clienti()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=targa\ modello\ tariffa\ codiceFiscale\ nome\ cognome
+comment2.target=Clienti(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=c
+comment3.target=Clienti(Clienti)
+comment4.params=codiceFiscale
+comment4.target=void\ setCodiceFiscale(java.lang.String)
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=cognome
+comment6.target=void\ setCognome(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCodiceFiscale()
+comment8.params=
+comment8.target=java.lang.String\ getNome()
+comment9.params=
+comment9.target=java.lang.String\ getCognome()
+numComments=11
