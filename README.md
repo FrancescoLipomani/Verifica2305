@@ -1,4 +1,4 @@
-#```TRACCIA PROVA```
+# ```TRACCIA PROVA```
 
 Si vuole progettare un’applicazione per gestire il noleggio di Veicoli. I veicoli sono identificati da una Targa e caratterizzati da un Modello e una Tariffa giornaliera.
 I veicoli sono suddivisi in furgoni e automobili. Le automobili hanno un numero di posti, i furgoni hanno una capacità di carico espressa in kg.
